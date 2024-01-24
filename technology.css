@@ -1,0 +1,93 @@
+body{
+    background-image: url(background-technology-desktop.jpg);
+    background-size: cover;
+}
+.dropdown a{
+    text-decoration: none;
+    color:white;
+    background-color: rgba(97, 103, 103, 0.501);
+    position:absolute;
+    left:120%;
+    padding:30px;
+    position:relative;
+    display:fixed;
+}
+.dropdown table{
+    padding:20px;
+    margin-top:20px;
+}
+
+
+.container p{
+    color:white;
+    width:30%;;
+    position:absolute;
+    bottom:20%;
+    left:20%;
+    font-size:20px;
+
+}
+.contimg img{
+    width:35%;
+    position:absolute;
+    left:65%;
+    bottom:0;
+
+}
+h{
+    font-size: 50px;
+    color:white;
+    position:absolute;
+    bottom:40%;
+    left:20%;
+    margin-bottom:20px;
+}
+h2{
+    color:white;
+    position:absolute;
+    top:38%;
+    left:20%;
+
+}
+h3{
+    position:absolute;
+    bottom:70%;
+    color:white;
+    left:20%;
+    font-size: 30px;
+
+}
+hr{
+    position:absolute;
+    width:45%;
+    left:6%;
+    top:8%;
+}
+.slider{
+    position:absolute;
+    top:30%;
+    left:5%;
+    font-size: 50px;
+    
+   
+}
+.slider a{
+    display: block;
+    font-size: 40px;
+    text-decoration: none;
+    border-style: ridge;
+    border-width: 1px;
+    background-color: transparent;
+    width:40px;
+    height:40px;
+    padding:20px;
+    margin: 10px;
+    border-radius: 50%;
+    text-align: center;
+    color:aliceblue;
+    
+}
+.slider a:hover{
+    background-color: whitesmoke;
+    color:black;
+}

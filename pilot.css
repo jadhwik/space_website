@@ -1,0 +1,61 @@
+body{
+    background-image: url(background-crew-desktop.jpg);
+    background-size: cover;
+}
+.dropdown a{
+    text-decoration: none;
+    color:white;
+    background-color: rgba(97, 103, 103, 0.501);
+    position:absolute;
+    left:120%;
+    padding:30px;
+    position:relative;
+    display:fixed;
+}
+.dropdown table{
+    padding:20px;
+    margin-top:20px;
+}
+
+
+.container{
+    color:white;
+    width:30%;;
+    position:absolute;
+    bottom:20%;
+    left:20%;
+    font-size:20px;
+}
+.contimg img{
+    width:30%;
+    position:absolute;
+    left:50%;
+    bottom:0;
+}
+h{
+    font-size: 50px;
+}
+h3{
+    position:absolute;
+    bottom:140%;
+}
+hr{
+    position:absolute;
+    width:45%;
+    left:6%;
+    top:8%;
+}
+.slider{
+    position:absolute;
+    top:85%;
+    left:20%;
+    font-size: 50px;
+}
+.slider a{
+    font-size: 80px;
+    text-decoration: none;
+    color:rgba(250, 235, 215, 0.562);
+}
+.slider a:hover{
+    color:white;
+}

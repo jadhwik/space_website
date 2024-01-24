@@ -1,0 +1,62 @@
+body{
+    background-image: url(background-home-desktop.jpg);
+    background-size: cover;
+}
+.dropdown a{
+    text-decoration: none;
+    color:white;
+    background-color: rgba(97, 103, 103, 0.501);
+    position:absolute;
+    left:70%;
+    padding:30px;
+    position:relative;
+    display:fixed;
+}
+.dropdown table{
+    padding:20px;
+    margin-top:20px;
+}
+
+.para{
+    height:400px;
+    display:flex;
+    align-items: flex-end;
+    color:white;
+    padding-top: 150px;
+    padding-left: 50px;
+}
+.para em{
+    font-size:100px;
+    font-family:sans-serif;
+
+}
+button{
+    height:200px;
+    width:200px;
+    border-radius: 50%;
+    border:none;
+    position:absolute;
+    left:70%;
+    bottom:20%;
+    font-size:20px;
+}
+img{
+    background-color: white;
+    border-radius: 50%;
+    
+}
+table{
+    padding:30px;
+    margin-top:20px;
+}
+#row{
+    position:absolute;
+    left:30%;
+    top:10%;
+}
+hr{
+    position:absolute;
+    width:50%;
+    left:6%;
+    top:8%;
+}
